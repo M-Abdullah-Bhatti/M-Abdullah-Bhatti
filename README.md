@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+<h3 align="center">A blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-abdullah-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="m-abdullah-bhatti" /> </p>
 
 
 - 🌱 I’m currently learning **Mern, Blockchain**
 
-- 👯 I’m looking to collaborate on **Mern Projects**
+- 👯 I’m looking to collaborate on **Blockchain Projects**
 
 - 📫 How to reach me **muhammadabdullahimdad10@gmail.com**
 
@@ -15,7 +15,40 @@
 <a href="https://linkedin.com/in/muhammad-abdullah-38388b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-38388b223/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# 🛠️ Skills
 
+## 👉 Programming languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+## 👉 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,flutter&perline=15)](https://skillicons.dev)
+
+## 👉 Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,solidity,graphql,mongodb,firebase,mysql&perline=15)](https://skillicons.dev)
+
+
+ ## 👉 Technologies & Concepts
+
+<h3> 🚀 Integration </h3>
+<ul>
+  <li>Web3 JS</li>
+  <li>Ether JS</li>
+</ul>
+
+<h3> Smart Contracts </h3>
+<ul>
+  <li>Smart contracts execution on Ethereum & Polygon Blockchain </li>
+  <li>NFTs</li>
+  <li>ERC20, ERC721 & ERC1155 Tokens</li>
+  <li>DAOs</li>
+  <li>Defi</li>
+  <li>Chainlink Oracles</li>  
+  <li>Thirdweb</li>  
+  <li>Alchemy & Infura Node Providers</li>  
+  <li>IPFS, Pinata</li>  
+  <li>Moralis</li>  
+</ul>
+                                     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdullah-bhatti&show_icons=true&locale=en&layout=compact" alt="m-abdullah-bhatti" /></p>
