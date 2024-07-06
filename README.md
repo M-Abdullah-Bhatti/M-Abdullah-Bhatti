@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A blockchain developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-abdullah-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="m-abdullah-bhatti" /> </p>
 
 
-- 🌱 I’m currently learning **Mern, Blockchain**
+- 🌱 I’m a **Mern, Blockchain** Developer
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
