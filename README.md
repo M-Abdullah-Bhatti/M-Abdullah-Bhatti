@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-abdullah-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="m-abdullah-bhatti" /> </p>
 
 
-- 🌱 I’m a **Mern, Blockchain** Developer
+- 🌱 I’m a **FullStack Developer** 
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
 - 📫 How to reach me **muhammadabdullahimdad10@gmail.com**
 
