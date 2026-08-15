@@ -4,18 +4,19 @@
 
 ### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰
 
-## What I Work On
+## 🚀 What I Work On
 
-- **SaaS Platforms** — dashboards, subscriptions, multi-user systems, roles and permissions
-- **Web Applications** — responsive React and Next.js applications
-- **Mobile Apps** — cross-platform applications with React Native and Expo
-- **Backend Systems** — REST APIs, business logic, authentication and background processes
-- **Marketplaces & Booking Systems** — listings, checkout flows, reservations and management tools
-- **Payments** — payment flows, webhooks, transaction handling and integrations
-- **Real-Time Features** — notifications, live updates and messaging
-- **Admin Dashboards** — analytics, data management, filters and role-based access
-- **AI Integrations** — LLM APIs, structured outputs, automation and AI-assisted workflows
-- **Cloud & Deployment** — Docker, CI/CD and cloud-based deployments
+* 🧩 **SaaS Platforms** — dashboards, subscriptions, multi-user systems, roles and permissions
+* 🌐 **Web Applications** — responsive React and Next.js applications
+* 📱 **Mobile Apps** — cross-platform applications with React Native and Expo
+* ⚙️ **Backend Systems** — REST APIs, business logic, authentication and background processes
+* 🛍️ **Marketplaces & Booking Systems** — listings, checkout flows, reservations and management tools
+* 💳 **Payments** — payment flows, webhooks, transaction handling and integrations
+* ⚡ **Real-Time Features** — notifications, live updates and messaging
+* 📊 **Admin Dashboards** — analytics, data management, filters and role-based access
+* 🤖 **AI Integrations** — LLM APIs, structured outputs, automation and AI-assisted workflows
+* ☁️ **Cloud & Deployment** — Docker, CI/CD and cloud-based deployments
+
 
   
 # 🌐 Connect with me:
@@ -85,28 +86,14 @@
 
 
 
-
-
-
-# 🚀 Profile Views:
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=m-abdullah-bhatti&label=Profile%20views&color=0e75b6&style=flat" alt="m-abdullah-bhatti" width="25%" height="30px" object-fit="contain" />
-</p>
-
 <br/>
 
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-bhatti&theme=blueberry&hide_border=false" alt="GitHub Streak" width="100%" />
+  <img
+    src="https://streak-stats.demolab.com?user=M-Abdullah-Bhatti&theme=blueberry&hide_border=false"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </p>
-
-
-
-
-
-
-
-
- 
