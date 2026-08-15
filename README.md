@@ -2,6 +2,8 @@
 
 <h1>Hi, it's me, Muhammad Abdullah. 👋</h1>
 
+### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰
+
 <p>
 I’m a Full-Stack Developer with experience building modern web, mobile, and backend applications for real-world products and client projects.
 
