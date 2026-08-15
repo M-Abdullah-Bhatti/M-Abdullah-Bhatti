@@ -4,6 +4,8 @@
 
 ### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰
 
+🚀 I turn ideas into reliable web, mobile, SaaS and AI products that are ready for real users and real business needs.
+
 ## 🚀 What I Work On
 
 * 🧩 **SaaS Platforms** — dashboards, subscriptions, multi-user systems, roles and permissions
