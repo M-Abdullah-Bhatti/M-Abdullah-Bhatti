@@ -4,20 +4,20 @@
 
 ### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰
 
-<p>
-I’m a Full-Stack Developer with experience building modern web, mobile, and backend applications for real-world products and client projects.
+## What I Work On
 
-I work across the full stack with JavaScript, TypeScript, React, Next.js, React Native, Node.js, Express.js, NestJS, MongoDB, MySQL, PostgreSQL, Firebase, Redux, TailwindCSS, Bootstrap, APIs, authentication systems, dashboards, and cloud-based integrations. I have worked on full-stack platforms, admin panels, mobile apps, marketplace flows, booking systems, payment-related features, real-time features, and client-facing products.
+- **SaaS Platforms** — dashboards, subscriptions, multi-user systems, roles and permissions
+- **Web Applications** — responsive React and Next.js applications
+- **Mobile Apps** — cross-platform applications with React Native and Expo
+- **Backend Systems** — REST APIs, business logic, authentication and background processes
+- **Marketplaces & Booking Systems** — listings, checkout flows, reservations and management tools
+- **Payments** — payment flows, webhooks, transaction handling and integrations
+- **Real-Time Features** — notifications, live updates and messaging
+- **Admin Dashboards** — analytics, data management, filters and role-based access
+- **AI Integrations** — LLM APIs, structured outputs, automation and AI-assisted workflows
+- **Cloud & Deployment** — Docker, CI/CD and cloud-based deployments
 
-I do not treat development as only writing code or completing tasks. I try to understand the product goal, user flow, business logic, edge cases, and long-term maintainability before implementing a feature. I care about clean structure, reusable components, proper API integration, responsive UI, error handling, loading states, and clear communication during development.
-
-I also use modern AI-assisted development tools and workflows to improve speed, debug faster, explore better solutions, and keep the development process efficient while still reviewing and owning the final implementation.
-
-I’m currently focused on remote opportunities, freelance projects, and startup/product work where I can help build reliable web and mobile applications from idea to production. I enjoy working with teams and clients who value ownership, honest updates, practical decisions, and clean execution.
-
-If you’re building a SaaS product, mobile app, marketplace, admin dashboard, AI-powered platform, or full-stack system, I can help turn the requirements into a clean, scalable, and maintainable product.
-</p>
-
+  
 # 🌐 Connect with me:
 
 <div align="center">
@@ -74,6 +74,12 @@ If you’re building a SaaS product, mobile app, marketplace, admin dashboard, A
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AI Integrations](https://img.shields.io/badge/AI_Integrations-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
