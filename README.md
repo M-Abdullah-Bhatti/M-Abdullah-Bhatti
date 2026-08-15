@@ -2,7 +2,7 @@
 
 <h1>Hi, it's me, Muhammad Abdullah. 👋</h1>
 
-### 💻 Full Stack Developer · ⏳ 5+ years · 📍 Karachi 🇵🇰
+### 💻 Full Stack Developer · 📍 Karachi 🇵🇰
 
 🚀 I turn ideas into reliable web, mobile, SaaS and AI products that are ready for real users and real business needs.
 
