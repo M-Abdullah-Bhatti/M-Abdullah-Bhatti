@@ -92,16 +92,3 @@
 
 </div>
 
-
-
-<br/>
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=M-Abdullah-Bhatti&theme=blueberry&hide_border=false"
-    alt="GitHub Streak"
-    width="100%"
-  />
-</p>
