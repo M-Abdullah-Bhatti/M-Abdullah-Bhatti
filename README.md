@@ -19,6 +19,12 @@
 * 🤖 **AI Integrations** — LLM APIs, structured outputs, automation and AI-assisted workflows
 * ☁️ **Cloud & Deployment** — Docker, CI/CD and cloud-based deployments
 
+## 🤝 Why People Like Working With Me
+
+- **I understand the product first** — before touching the code, I make sure I understand what we are actually trying to achieve.
+- **Clear communication throughout** — you always know what is done, what is next, and if anything needs attention.
+- **I build for the long term** — clean, maintainable code that another developer can easily pick up and continue.
+- **I take responsibility for the outcome** — I care about getting the product working properly, not just completing assigned tasks.
 
   
 # 🌐 Connect with me:
